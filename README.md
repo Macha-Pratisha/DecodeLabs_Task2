@@ -345,22 +345,6 @@ pip install -r requirements.txt
 
 ---
 
-## 💼 Resume Description
-
-```
-Iris Flower Classification | Python | Machine Learning | 2026
-
-• Developed multi-model classification system using Decision Tree, KNN, 
-  and Logistic Regression achieving 96-100% accuracy
-• Performed exploratory data analysis on 150-sample dataset with 4 features
-• Implemented train/test split (80/20) with stratification for balanced evaluation
-• Evaluated models using accuracy, precision, recall, F1-score, and confusion matrix
-• Created comprehensive visualizations for model performance comparison
-• Technologies: Python, pandas, NumPy, scikit-learn, matplotlib, seaborn
-```
-
----
-
 ## 🤝 Contributing
 
 This is an internship project, but suggestions are welcome!
